@@ -222,7 +222,7 @@ __marimo__/
 [Bb]in/
 [Oo]bj/
 
-# Archivos de depuración
+# Archivos de depuraciÃ³n
 *.pdb
 *.cache
 *.log
@@ -244,3 +244,7 @@ __marimo__/
 *.vssscc
 *.vsidx
 *.VC.db
+
+
+#Documents
+*pdf
